@@ -1,3 +1,6 @@
 # ignore the /venv folder
 venv/
+binaries/
+
+data/
 
